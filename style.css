@@ -1,0 +1,33 @@
+body{
+	text-align: center;
+	
+}
+img{
+	border-radius: 5%;
+	margin: 10pt;
+}
+img:hover{
+box-shadow: 0 0 0 10px #000000;
+transition: 1s ease;
+
+}
+a{
+	text-decoration: none;
+	text-align: center;
+}
+strong{
+	background-color: rgb(246, 246, 246);
+}
+table {
+	border-collapse: collapse;
+}
+.caption{
+	display: block;
+	margin: 20px;
+}
+td:hover{
+	background-color: 
+}
+div{
+	background-color: #f2f2f2;
+}
